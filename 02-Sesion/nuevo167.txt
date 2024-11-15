@@ -1,0 +1,51 @@
+Julian David 
+	12 dígital
+	8 físicos
+Angie
+	15 dígital
+	2 físicos
+Mayra
+	15 dígital
+	4 físicos
+María del Mar
+	N dígital
+	N físicos
+María José 
+	18 dígital
+	3 físicos
+Patricia
+	9 dígital
+	3 físicos
+Carolina
+	20 dígital
+	3 físicos
+Willian
+	14 dígital
+	0 físicos
+Cristian Narvaez 
+	12 dígital
+	0 físicos
+Yordi
+	30 dígital
+	7 físicos
+
+
+
+
+Juan david
+David Florez
+Alejandro
+Carlos Andrés  => Manuales
+Yanuard
+Hector 
+
+
+============
+.Markdown **** 
+.LaTeX ****
+.Jupyter Notebooks ****
+.RMarkdown
+.Pandoc
+============
+Comparativo. 
+
